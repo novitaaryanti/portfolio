@@ -1,6 +1,6 @@
 # Portofolio
 
-novita.aryanti001@binus.ac.id | [LinkedIn](https://www.linkedin.com/in/novita-aryanti/) | [Medium](https://medium.com/@novitaaryanti25) | [CV]()
+[novita.aryanti001@binus.ac.id](mailto:novita.aryanti001@binus.ac.id) | [LinkedIn](https://www.linkedin.com/in/novita-aryanti/) | [Medium](https://medium.com/@novitaaryanti25) | [CV](https://drive.google.com/file/d/11W7_zRydzcWHu6gsBVfESh_T0YUkwakW/view?usp=sharing)
 
 ## Objective and Interest
 A third-year Computer Science undergraduate student at Bina Nusantara University who is passionate about artificial intelligence, machine learning, statistics, and data analysis. Has a high willingness to learn and is eager to keep skills up to date in a collaborative environment.
@@ -54,12 +54,12 @@ Implement data wrangling skills by using Python and data visualization Tableau a
 
 
 ## Certificates
-- **Data Wrangling & SQL** | Pacmann	(_November 2023_)
+- **Data Wrangling & SQL** | Pacmann	                      (_November 2023_)
 - **Best 3 Pacmann Mini Project Data Wrangling** | Pacmann	(_October 2023_)
 
   Project can be accessed via this [link](https://github.com/novitaaryanti/edtech-product-survey-wrangling-project#readme)
   
-- **Python – I & Python – II** | Pacmann	(_September 2023_)
-- **Python for Data Science** | Sololearn	(_September 2023_)
+- **Python – I & Python – II** | Pacmann	                  (_September 2023_)
+- **Python for Data Science** | Sololearn	                  (_September 2023_)
 - **Introduction to Data & Introduction to Visualization** | Pacmann	(_August 2023_)
-- **Intermediate Python** | Sololearn	(June 2023)
+- **Intermediate Python** | Sololearn	                      (_June 2023_)
