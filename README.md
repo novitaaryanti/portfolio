@@ -1,6 +1,6 @@
 # Portofolio
 
-[novita.aryanti001@binus.ac.id](mailto:novita.aryanti001@binus.ac.id) | [LinkedIn](https://www.linkedin.com/in/novita-aryanti/) | [Medium](https://medium.com/@novitaaryanti25) | [CV](https://drive.google.com/file/d/11W7_zRydzcWHu6gsBVfESh_T0YUkwakW/view?usp=sharing)
+[novita.aryanti001@binus.ac.id](mailto:novita.aryanti001@binus.ac.id) | [LinkedIn](https://www.linkedin.com/in/novita-aryanti/) | [Medium](https://medium.com/@novitaaryanti25) | [CV](https://drive.google.com/file/d/1GklJTFoHkLrneadIjGvkR4SNsIzhjxBz/view?usp=sharing)
 
 ## Objective and Interest
 A third-year Computer Science undergraduate student at Bina Nusantara University who is passionate about artificial intelligence, machine learning, statistics, and data analysis. Has a high willingness to learn and is eager to keep skills up to date in a collaborative environment.
