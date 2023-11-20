@@ -39,9 +39,9 @@ Analysing customer preferences from [Olist marketplace database](https://www.kag
 
 ### [Telecom Customer Churn Project](https://github.com/novitaaryanti/telecom_customer_churn_project/tree/main#readme)
 > **Highlighted Skills**:
-> R, Data Wrangling, Machine Learning, Logistic Regression, XGBoost
+> R, Data Wrangling, Machine Learning, Random Forest, Regularized Logistic Regression
 
-Performing a basic implementation of binary classification using machine learning models in R. The goal is to do binary classification to predict the churn of the telecom company. The dataset used for this project is called [Iranian Churn Dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset) which was obtained from the UC Irvine Machine Learning Repository. The models used for this project are Random Forest and Regularized Logistic Regression. From the ROC and balanced accuracy score, the _Random Forest_ model using mtry = 2 gives better performance compared to Regularized Logistic Regression with ROC = 0.9583140 and balanced accuracy = 0.8343.
+Performing a basic implementation of binary classification using machine learning models in R. The goal is to do binary classification to predict the churn of the telecom company. The dataset used for this project is called [Iranian Churn Dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset) which was obtained from the UC Irvine Machine Learning Repository. The models used for this project are Random Forest and Regularized Logistic Regression. From the ROC and balanced accuracy score, the __Random Forest__ model using mtry = 2 gives better performance compared to Regularized Logistic Regression with ROC = 0.9583140 and balanced accuracy = 0.8343.
 
 
 ### [Data Wrangling & Visualization: Laptop Selling Analysis](https://github.com/novitaaryanti/laptop-selling-analysis-project#readme)
