@@ -37,6 +37,13 @@ Building a simple program combining machine learning model prediction and Object
 Analysing customer preferences from [Olist marketplace database](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) to obtain insights in order to improve Olist marketplace business service. The objectives which will be analysed are the top 10 best-selling product categories in the Olist marketplace, the most-used payment type for transactions in the Olist marketplace, and the names of 5 cities where most of Olist marketplace customers reside.
 
 
+### [Telecom Customer Churn Project](https://github.com/novitaaryanti/telecom_customer_churn_project/tree/main#readme)
+> **Highlighted Skills**:
+> R, Data Wrangling, Machine Learning, Logistic Regression, XGBoost
+
+Performing a basic implementation of binary classification using machine learning models in R. The goal is to do binary classification to predict the churn of the telecom company. The dataset used for this project is called [Iranian Churn Dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset) which was obtained from the UC Irvine Machine Learning Repository. The models used for this project are Random Forest and Regularized Logistic Regression. From the ROC and balanced accuracy score, the _Random Forest_ model using mtry = 2 gives better performance compared to Regularized Logistic Regression with ROC = 0.9583140 and balanced accuracy = 0.8343.
+
+
 ### [Data Wrangling & Visualization: Laptop Selling Analysis](https://github.com/novitaaryanti/laptop-selling-analysis-project#readme)
 
 [See the visualization on Tableau](https://public.tableau.com/app/profile/novita.aryanti/viz/LaptopSellinginTokopediaJanuary2021/Dashboard1)
