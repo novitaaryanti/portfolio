@@ -21,8 +21,10 @@ I actively participate in organization and campus activities. I am currently tak
 
 ## Projects
 ### [Credit Approval Prediction Program](https://github.com/novitaaryanti/credit_approval_prediction_project#readme)
+
 > **Highlighted Skills**:
 > Python, Pandas, scikit-learn, Machine Learning, Logistic Regression, Random Forest, XGBoost, Matplotlib, Data Structure, Object-Oriented Programming
+<img src="assets/img/snippet_credit_approval_prediction_program.png" width="750">
 
 Building a simple program combining machine learning model prediction and Object-Oriented Programming (OOP) concepts in Python which covers the minimum requirements of a credit approval prediction program. The main goal of this project is to implement the best machine learning classification model that could predict credit approval in a simple prediction system. The dataset used for this project is called [Credit Approval](https://archive.ics.uci.edu/dataset/27/credit+approval) which was obtained from the UC Irvine Machine Learning Repository. From the analysis, the best model for doing credit card approval prediction using the best 10 features based on the correlation is **Random Forest** with accuracy = 0.862595 and F1-score = 0.836364. Then, the model is implemented in the program.
 
@@ -33,6 +35,7 @@ Building a simple program combining machine learning model prediction and Object
 
 > **Highlighted Skills**:
 > Python, SQL, Pandas, Data Wrangling, Data Analytics, Natural Language Processing (NLP), Matplotlib, Business Intelligence
+<img src="assets/img/snippet_data_wrangling_olist_database.png" width="750">
 
 Analysing customer preferences from [Olist marketplace database](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) to obtain insights in order to improve Olist marketplace business service. The objectives which will be analysed are the top 10 best-selling product categories in the Olist marketplace, the most-used payment type for transactions in the Olist marketplace, and the names of 5 cities where most of Olist marketplace customers reside.
 
@@ -40,6 +43,7 @@ Analysing customer preferences from [Olist marketplace database](https://www.kag
 ### [Telecom Customer Churn Project](https://github.com/novitaaryanti/telecom_customer_churn_project/tree/main#readme)
 > **Highlighted Skills**:
 > R, Data Wrangling, Machine Learning, Random Forest, Regularized Logistic Regression
+<img src="assets/img/snippet_telecom_customer_churn_r.png" width="750">
 
 Performing a basic implementation of binary classification using machine learning models in R. The goal is to do binary classification to predict the churn of the telecom company. The dataset used for this project is called [Iranian Churn Dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset) which was obtained from the UC Irvine Machine Learning Repository. The models used for this project are Random Forest and Regularized Logistic Regression. From the ROC and balanced accuracy score, the __Random Forest__ model using mtry = 2 gives better performance compared to Regularized Logistic Regression with ROC = 0.9583140 and balanced accuracy = 0.8343.
 
@@ -50,6 +54,7 @@ Performing a basic implementation of binary classification using machine learnin
 
 > **Highlighted Skills**:
 > Python, Tableau, Pandas, Data Wrangling, Data Analysis, Natural Language Processing (NLP), Business Intelligence
+<img src="assets/img/snippet_data_wrangling_visualization_laptop_selling.png" width="750">
 
 Implement data wrangling skills by using Python and data visualization Tableau as BI tools in order to obtain business information regarding popular laptop products based on the brand and series. The dataset used for this project is called [E-commerce Laptop Price Scraping](https://www.kaggle.com/datasets/artakusuma/laptopecomercee) which was obtained from Kaggle. The highlighted steps in this project are enriching, structuring, cleaning the data, and visualizing the data. The Tableau visualization mainly shows the overall insight in January 2021. The visualization can also be filtered based on the day to gain insight into the specific date.
 
