@@ -1,4 +1,4 @@
-# [Portfolio]
+# Portfolio
 
 [novitaaryanti25@gmail.com](mailto:novitaaryanti25@gmail.com) | [linkedin.com/in/novita-aryanti/](https://www.linkedin.com/in/novita-aryanti/) | [medium.com/@novitaaryanti25](https://medium.com/@novitaaryanti25) | [CV](https://drive.google.com/file/d/1QTR3A2OvnO4gJ--tdmr1zXsBP2hLJMeX/view)
 
