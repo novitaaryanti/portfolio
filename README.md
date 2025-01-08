@@ -1,8 +1,6 @@
-# Portfolio
+# [Portfolio](https://novitaaryanti.github.io/portfolio/)
 
 [novitaaryanti25@gmail.com](mailto:novitaaryanti25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/novita-aryanti/) | [Medium](https://medium.com/@novitaaryanti25) | [CV](https://drive.google.com/file/d/1QTR3A2OvnO4gJ--tdmr1zXsBP2hLJMeX/view)
-
-Access Portfolio Website: https://novitaaryanti.github.io/portfolio/
 
 ## Objective and Interest
 A fourth-year Computer Science undergraduate student at Bina Nusantara University who is passionate about artificial intelligence, machine learning, statistics, and data analytics. Has a high willingness to learn and is eager to keep skills up to date in a collaborative environment.
