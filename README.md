@@ -1,21 +1,11 @@
 # Portfolio
 
-[novitaaryanti25@gmail.com](mailto:novitaaryanti25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/novita-aryanti/) | [Medium](https://medium.com/@novitaaryanti25) | [CV](https://drive.google.com/file/d/1GklJTFoHkLrneadIjGvkR4SNsIzhjxBz/view?usp=sharing)
+[novitaaryanti25@gmail.com](mailto:novitaaryanti25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/novita-aryanti/) | [Medium](https://medium.com/@novitaaryanti25) | [CV](https://drive.google.com/file/d/1QTR3A2OvnO4gJ--tdmr1zXsBP2hLJMeX/view)
 
 ## Objective and Interest
-A third-year Computer Science undergraduate student at Bina Nusantara University who is passionate about artificial intelligence, machine learning, statistics, and data analytics. Has a high willingness to learn and is eager to keep skills up to date in a collaborative environment.
+A fourth-year Computer Science undergraduate student at Bina Nusantara University who is passionate about artificial intelligence, machine learning, statistics, and data analytics. Has a high willingness to learn and is eager to keep skills up to date in a collaborative environment.
 
 
-
-## Experiences (Academic and Non-Academic)
-I actively participate in organization and campus activities. I am currently taking the role of Regional Secretary of HIMTI Binus @Alam Sutera, Vice Chairman (Student) for ICPC 2023 Asia Jakarta Regional Contest, and student learning mentor who teaches theoretical and practical computer science courses. The courses I taught in the mentoring sessions include Artificial Intelligence, Database Technology, Machine Learning, Speech Recognition, and Natural Language Processing. I have been receiving scholarships thrice from being a student learning mentor since the third semester. In those periods, I received an honour as the best mentor for the odd period 2022/2023. In 2023, I participated in writing a paper titled "Classifying and Predicting The Rating Sentiment of Women's E-commerce Clothing Reviews: A Comparative Study Using SVM, ANN, and BERT Models" and was given a chance to do an oral presentation on behalf of the research team at ICORIS 2023.
-
-
-
-## Skill
-- **Technical Skills**: Python, SQL, Machine Learning Library (Pandas, NumPy, Matplotlib, Seaborn, NLTK), Tensorflow, Tableau, Java, R, Git, Microsoft Office (Excel)
-- **Language**: English, Indonesia
-- **Soft Skill**: Communication, Presentation and Public Speaking, Collaboration, Teamwork, Time and Task Management, Adaptability, Analytical Thinking, Detail-Oriented, Data Analysis, Business Intelligence
 
 
 
@@ -63,6 +53,28 @@ Implement data wrangling skills by using Python and data visualization Tableau a
 
 > **Course Related**:
 > Machine Learning, Deep Learning, Speech Recognition, Natural Language Processing, Software Engineering
+
+
+
+
+## Publications
+### [Classifying and Predicting The Rating Sentiment of Women's E-commerce Clothing Reviews: A Comparative Study Using SVM, ANN, and BERT Models](https://ieeexplore.ieee.org/document/10352189)
+> **Authors**: Immanuel Yabes; Novita Aryanti; Rayes Jordan Pradana; Karli Eka Setiawan; Muhammad Fikri Hasani
+
+> **Conference**: 2023 5th International Conference on Cybernetics and Intelligent System (ICORIS)
+
+This project explores the importance of reliable product reviews and ratings in online shopping, focusing on determining the sentiment of reviews to classify them as positive or negative. Using a dataset of women's clothing reviews from the Nicapotato e-commerce platform on Kaggle, the study evaluates the effectiveness of different machine learning and deep learning methods in sentiment analysis. The methods employed include Support Vector Machines (SVM) and Artificial Neural Networks (ANN) as machine learning techniques, alongside BERT as a deep learning method. For text vectorization, TF-IDF was used with SVM and ANN, while SentenceBERT was applied with the BERT model. The models were assessed based on accuracy and F1 Score to identify the most reliable and accurate approach for classifying review sentiments. The results demonstrated that the ANN model, using TF-IDF for text vectorization, outperformed other methods, achieving the best performance in terms of accuracy and F1 Score. This study provides insights into optimizing sentiment analysis for e-commerce platforms, enhancing customer trust and decision-making processes.
+
+
+
+## Skill
+- **Technical Skills**: Python, SQL, Machine Learning Library (Pandas, NumPy, Matplotlib, Seaborn, NLTK), Tensorflow, Tableau, R, Git, Microsoft Office (Excel), Flutter, Java
+- **Language**: English, Indonesia
+- **Soft Skill**: Communication, Presentation and Public Speaking, Collaboration, Teamwork, Time and Task Management, Adaptability, Analytical Thinking, Detail-Oriented, Data Analysis, Business Intelligence
+
+
+
+
 
 
 ## Certificates
