@@ -45,6 +45,10 @@ body {
     border-radius: 30px;
     object-fit: cover;
 }
+#view-github{
+    color: white;
+    text-decoration: none;
+}
 .section {
     padding: 100px 0;
 }
