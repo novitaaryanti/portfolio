@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novita Aryanti</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="public/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <h1 class="navbar-brand" href="#">Novita Aryanti</h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About Me</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#skills">Skills</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#recent">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#footer">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section id="about" class="section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-5">
+                    <h3 style="color: #0066c0">Hi, I am</h3>
+                    <h1 id="name" class="mb-5">Novita Aryanti</h1>
+                    <ul class="list-inline">
+                        <li class="list-inline-item px-2 w-3">
+                            <a href="https://github.com/novitaaryanti" target="_blank" class="icon-link">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="grey"
+                                    class="bi bi-github" viewBox="0 0 16 16">
+                                    <path
+                                        d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8" />
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="list-inline-item px-2 w-3">
+                            <a href="https://www.linkedin.com/in/novita-aryanti/" target="_blank" class="icon-link">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="grey"
+                                    class="bi bi-linkedin" viewBox="0 0 16 16">
+                                    <path
+                                        d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+                                </svg>
+                            </a>
+                    </ul>
+                </div>
+                <div class="col-md-7">
+                    <h3 class="mb-3">Data and Machine Learning Enthusiast</h3>
+                    <p class="text-justify mb-5">A final year Computer Science undergraduate student at Bina Nusantara
+                        University who is passionate about artificial intelligence, machine learning, statistics, and
+                        data analytics. Has a high willingness to learn and is eager to keep skills up to date in a
+                        collaborative environment. Currently also taking interest in mobile app development using
+                        Flutter framework.</p>
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <button id="contact-btn" type="button" class="btn text-white" style="border-radius: 10px;">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd"
+                                        d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z" />
+                                </svg>
+                                <a href="https://wa.me/6285959721567" id="wa">Contact me</a>
+                            </button>
+                        </li>
+                        <li class="list-inline-item mx-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0066c0"
+                                class="bi bi-file-earmark-person-fill" viewBox="0 0 16 16">
+                                <path
+                                    d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0m2 5.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-.245S4 12 8 12s5 1.755 5 1.755" />
+                            </svg>
+                            <a href="https://drive.google.com/file/d/1QTR3A2OvnO4gJ--tdmr1zXsBP2hLJMeX/view"
+                                id="resume">View CV</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" style="padding-bottom: 20px; padding-top: 50px;">
+        <div class="container">
+            <p style="color: #0066c0;">Here's my</p>
+            <h2><strong>Technical Skills</strong></h2>
+            <div class="d-flex justify-content-between">
+                <div class="tech-stack border rounded border-dark p-3">
+                    <h4 style="color: #0066c0">Python</h4>
+                    <p>Proficient in Python for developing scalable applications and automating data processing tasks,
+                        leveraging its extensive libraries for various projects.</p>
+                </div>
+                <div class="tech-stack border rounded border-dark p-3">
+                    <h4 style="color: #0066c0">SQL</h4>
+                    <p>Proficient in SQL for querying and managing relational databases, ensuring efficient data
+                        retrieval and manipulation for analytics and reporting.</p>
+                </div>
+                <div class="tech-stack border rounded border-dark p-3">
+                    <h4 style="color: #0066c0">Flutter</h4>
+                    <p>Experienced in Flutter and Dart for developing mobile applications.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="recent" class="section" style="padding-bottom: 20px; padding-top: 50px;">
+        <div class="container">
+            <p style="color: #0066c0;">Here's my</p>
+            <h2><strong>Recent Projects</strong></h2>
+            <div class="row align-items-center">
+                <div class="col-md-5">
+                    <img class="recent" src="assets\snippet_credit_approval_prediction_program.png" alt="project #1">
+                </div>
+                <div class="col-md-7">
+                    <h3 class="mb-3">Credit Approval Prediction Program</h3>
+                    <p class="text-justify">Building a simple program combining machine learning model prediction and
+                        Object-Oriented Programming (OOP) concepts in Python which covers the minimum requirements of a
+                        credit approval prediction program.</p>
+                    <button class="btn btn-warning">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-github" viewBox="0 0 16 16">
+                            <path
+                                d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8" />
+                        </svg>
+                        View on GitHub
+                    </button>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-md-7">
+                    <h3 class="mb-3">Data Wrangling: Olist Marketplace Database</h3>
+                    <p class="text-justify">Analysing customer preferences from Olist marketplace database to obtain
+                        insights in order to improve Olist marketplace business service.</p>
+                    <button class="btn btn-warning">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-github" viewBox="0 0 16 16">
+                            <path
+                                d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8" />
+                        </svg>
+                        View on GitHub
+                    </button>
+                </div>
+                <div class="col-md-5">
+                    <img class="recent" src="assets/snippet_data_wrangling_olist_database.png" alt="project #1">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="portfolio" class="section">
+        <div class="container">
+            <p style="color: #0066c0;">Here's my</p>
+            <h2><strong>Other Projects</strong></h2>
+            <div id="portfolioCarousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="row">
+                            <div class="col-md-4 portfolio-item">
+                                <div class="card" style="width: 100%;">
+                                    <a href="https://github.com/novitaaryanti/laptop-selling-analysis-project#readme">
+                                        <img class="porto-img card-img-top"
+                                            src="assets/snippet_data_wrangling_visualization_laptop_selling.png"
+                                            alt="Data Wrangling - Visualization Laptop Selling">
+
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Data Wrangling & Visualization: Laptop Selling Analysis
+                                        </h5>
+                                        <p class="card-text">Implement data wrangling skills by using Python and data
+                                            visualization Tableau as BI tools in order to obtain business information
+                                            regarding popular laptop products based on the brand and series.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                            <div class="col-md-4 portfolio-item">
+                                <div class="card" style="width: 100%;">
+                                    <a href="https://ieeexplore.ieee.org/document/10352189">
+                                        <img class="porto-img card-img-top"
+                                            src="assets/snippet_classifying_review_sentiment.jpg" alt="Card image cap">
+
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">[Group] Classifying The Rating Sentiment of Reviews</h5>
+                                        <p class="card-text">This project explores the importance of reliable product
+                                            reviews and ratings in online shopping, focusing on determining the
+                                            sentiment of reviews to classify them as positive or negative.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 portfolio-item">
+                                <div class="card" style="width: 100%;">
+                                    <a
+                                        href="https://github.com/novitaaryanti/telecom_customer_churn_project/tree/main#readme">
+                                        <img class="porto-img card-img-top"
+                                            src="assets/snippet_telecom_customer_churn_r.png" alt="Card image cap">
+
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Telecom Customer Churn Project</h5>
+                                        <p class="card-text">Performing a basic implementation of binary classification
+                                            of the churn of the telecom company using machine learning models in R.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-md-4 portfolio-item">
+                                <div class="card" style="width: 100%;">
+                                    <a
+                                        href="https://github.com/novitaaryanti/edtech-product-survey-wrangling-project#readme">
+                                        <img class="porto-img card-img-top"
+                                            src="assets/snippet_data_wrangling_product_survey.png" alt="Card image cap">
+
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Data Wrangling: EdTech Product Survey</h5>
+                                        <p class="card-text">This project involves preparing survey data on preferences
+                                            for skill programs at Pacmann, an EdTech company in Indonesia, to help the
+                                            product team prioritize program development based on attributes like skills,
+                                            program types, and pricing.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 portfolio-item">
+                                <div class="card" style="width: 100%;">
+                                    <a href="https://github.com/novitaaryanti/portofolio_semester_project">
+                                        <img class="porto-img card-img-top" src="assets/snippet_group_project.jpeg"
+                                            alt="Card image cap">
+
+                                    </a>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Group Projects</h5>
+                                        <p class="card-text">Consists of school projects done in a group.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#portfolioCarousel" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#portfolioCarousel" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+
+    <footer id="footer" class="footer">
+        <div class="container p-3">
+            <h3>
+                <strong>Interested in Collaborating?</strong>
+            </h3>
+            <p>Hit me up through my social media below</p>
+            <ul class="list-inline mt-4">
+                <li class="list-inline-item px-2">
+                    <a href="https://wa.me/6285959721567">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
+                            class="bi bi-whatsapp" viewBox="0 0 16 16">
+                            <path
+                                d="M13.601 2.326A7.85 7.85 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.9 7.9 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.9 7.9 0 0 0 13.6 2.326zM7.994 14.521a6.6 6.6 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.56 6.56 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592m3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.73.73 0 0 0-.529.247c-.182.198-.691.677-.691 1.654s.71 1.916.81 2.049c.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232" />
+                        </svg>
+                    </a>
+                </li>
+                <li class="list-inline-item px-2">
+                    <a href="mailto:novitaaryanti25@gmail.com">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
+                            class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                            <path
+                                d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
+                        </svg>
+                    </a>
+                </li>
+            </ul>
+            <p class="mt-5">&copy; 2025 Portfolio Novita Aryanti</p>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
